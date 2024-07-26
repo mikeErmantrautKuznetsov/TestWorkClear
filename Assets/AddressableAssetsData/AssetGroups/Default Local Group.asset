@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 35e8085f14c0397469f9927dbdf0a493
+  m_SerializeEntries:
+  - m_GUID: 0113a5d247feebe459dcc48bca9c2374
+    m_Address: Assets/Prefabs/check.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4adcaf3b728ccf4583a506e56ff8b3a
+    m_Address: Assets/Prefabs/checkHigh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc7224c12bcbda64c9a36e038e63375b
+    m_Address: Assets/Prefabs/Timer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d39fd7e1139e1ab4dae69070f24986d7
+    m_Address: Assets/Prefabs/TimerBest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87694aca4e95124458f02eabe9405393
+    m_Address: Assets/Animation/SceneChange.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e7e63a603843b640afd2e202f54c9f3
+    m_Address: Assets/Animation/FirstGame.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c2b531ecc2d4247be158bb45688d25
+    m_Address: Assets/Animation/Fade2.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59c8e8bd483074e47bef8bc638d0ea47
+    m_Address: Assets/Animation/Fade.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6000c99975711fb4293b1047ef421ffe
+    m_Address: Assets/GameFirst/Icons/ICONS128.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a0f8fdcd1a43bc4285300e370f38fae
+    m_Address: Assets/GameFirst/Icons/DemoSettings.lighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e17203397c1e765488076e2eacf65116
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_punisher.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcef3bb3e863a0b47bc29230664c187c
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_runner.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c27f27f721c286448525b0b2549c3fd
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_reload.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc609ed06ad96334b99034f63f3072ec
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_fist.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1ca7598084e20445b98996a45b9d87f
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_acrobat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d79238c415f741a4ab59241e2a218894
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_alchemy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac85f5c2c44b66d4390c9159a97e8086
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_armyman.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 358159e3f04b40145b7b473a8b779cc0
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_backstab.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6e0c61226318b64db8f2ca9069b2dae
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_beast.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76855fbdf15b27f4d93e1bef0d41fd38
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_fighter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 675327c5bbe514e47a6d654317852c9b
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_highkick.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b33876742a01b8e458381f9faa09fac7
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_knifemastery.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9ee4160ab42c14dab4bf0a18b625bd
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_lowkick.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49cfe97e7f6d389479a5bb2eb8585c9b
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_machine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2cb3da7e4ee10b4eb1a8d77b88c5495
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_packaging.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9581c2162623c149959a8fc7d54f4b8
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_pistol.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b17f6817766118d45930fb33b327f92c
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_powerstrike.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aeca696388a0164eb1ea3dc2d9fc3b7
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_repair.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf1df01caaa0af84fb793ea07283b976
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_revive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5af30a90f007422428869fd97dbd7113
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_runningfist.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10e03e6e0b60fd04cbe436f56356e27e
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_runningstrike.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f61544908dd21c4b8398ba50b63a0d5
+    m_Address: Assets/GameFirst/Icons/skills/icons_skills_sturdy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6689a56a4bb88374baadac64c9f1f215
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_adrenaline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2f6497a6974dca4b9992e81e39a0d05
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_antidote.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9af5a449a0730e940912c9b15406fc7c
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_energetic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28332292ef0940a4189976405e749db7
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_falc_mixture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b573a7cc2a543d4facee730b87782ee
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_gemostatic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19920538ae74994b82bd2a51ae082e7
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_ofi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c40883240ab7ff45a9ff3cead5038a0
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_painkillers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03b677a216202374d98617890ae3b367
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_painkillers2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7384df5b0c9fe3479aacb650ec9068d
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_rage_potion.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c36633b3f4616d429aaef19f8e28ca4
+    m_Address: Assets/GameFirst/Icons/potions/icon_stimulator_salve.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0f88150deac9b643b1280d686c6091d
+    m_Address: Assets/GameSecond/Materials/Finish 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41d3d11e05babf3429e1643d049d2aeb
+    m_Address: Assets/GameSecond/Materials/Finish.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c37c981a5b0d3104d845e100c9732ddd
+    m_Address: Assets/GameSecond/Materials/Door.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f036d4d857e4cf4abcc9c8414d61cdb
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Mini
+      Simple Characters_texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c2cbe9d9d9c18f4ca37c70960f410e9
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Mini
+      Simple Characters Demo Mat primary.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffd19ad2f09725f4c88fd48c23bd0f1b
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Mini
+      Simple Characters Demo Mat tertiary.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 742e6525fc65f9a49812bcb24e24fce8
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Mini
+      Simple Characters Demo Mat secondary.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38bd75ac464d4484fa716e40e63f9831
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Material
+      Variations/Mini Simple Characters Mat Yellow Bones.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c4d2e4145dad3f4785bb79c88089dcf
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Materials/Material
+      Variations/Mini Simple Characters Mat Red Eyes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20818fda9cf85f94ca4d9803d50fb8d8
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Prefabs/Characters/mini
+      simple skeleton demo_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a46e821c58b5cd42b14eaab6d197266
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Prefabs/Characters/mini
+      simple skeleton demo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62dcba975a0bdfe47bef48ea43049412
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Prefabs/Characters/mini
+      simple skeleton demo_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41f081d5c6d286c47a33bed3f84de79a
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/mini
+      simple skeleton demo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 564dad649c6ef7f4b8d09bf439acb87b
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/shield_wood.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27f19f244afa43c43b7c5bff88b185bb
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/sword_wood.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5901ce40e7bc6f45be465c564aa05e0
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/Animations/mini
+      simple characters animations.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbfc546c1b8df3a4ca7b8598be771908
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/Animations/PlayerNew.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69ce5dd747afb75488c00ed0f554f1d6
+    m_Address: Assets/GameSecond/Mini Simple Characters Skeleton Demo/Models/Animations/Mini
+      simple Characters Animation Controller Demo.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dc4224e1a9586b41988b560f3fd1a75
+    m_Address: Assets/GameFirst
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfe3bc89edf32e24f832843985d0cd1d
+    m_Address: Assets/Animation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa324ac7a71f6444be4f03de2629c32
+    m_Address: Assets/GameSecond
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17655b0dc5300a34ea6d2f00afec18c8
+    m_Address: Assets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d3a985ff6c9874d9e2a23bb9577706
+    m_Address: Assets/Scenes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c088dfe3ecffa4691a1f80eee82d83
+    m_Address: Assets/Scripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f54d1bd14bd3ca042bd867b519fee8cc
+    m_Address: Assets/TextMesh Pro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 243e06394e614e5d99fab26083b707fa
+    m_Address: Assets/TextMesh Pro/Resources
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e7e8f5a82a3a134e91c54efd2274ea9
+    m_Address: Assets/TextMesh Pro/Documentation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ab70aee4d56447429c680537fbf93ed
+    m_Address: Assets/TextMesh Pro/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9f693669af91aa45ad615fc681ed29f
+    m_Address: Assets/TextMesh Pro/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0603b6d5186471b96c778c3949c7ce2
+    m_Address: Assets/TextMesh Pro/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3ecb6ebdb815d4142a3fe89bdd63c4a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0f31207c125011641875b1f1028f428f, type: 2}
+    - {fileID: 11400000, guid: 08bcaf66285160d47979fb5fc9849889, type: 2}
